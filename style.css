@@ -1,0 +1,47 @@
+
+    
+
+
+        
+    .view{ 
+         float: left;
+    margin-top:80px;
+    
+    margin-left: 350px;
+
+   
+}
+.text{
+    color: aquamarine;
+
+}
+#min{
+    margin-left: 200px;
+    margin-top: 10px;
+
+}
+.button{
+    background-color: aqua;
+    padding: 10px 20px;
+    font-size:large;
+    font-weight: 700;
+    text-decoration: none;
+    border:10px;
+    border-radius: 10px;
+
+
+  .card img{
+      height: 100px;
+      weight:100px;
+  }
+  .price{
+      color:white;
+  }
+ .box img {
+    height: 400px;
+    width: 300px;
+    background-color: teal;
+    overflow: hidden;
+    text-decoration: none;
+    border:0px;
+ }
